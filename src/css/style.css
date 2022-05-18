@@ -1,0 +1,60 @@
+/* Header */
+#hero {
+  width: 100%;
+  height: auto;
+  position: relative;
+}
+
+#hero > img {
+  width: 100%;
+  height: auto;
+  filter: brightness(50%);
+}
+
+.quote {
+  position: absolute;
+  top: 150px;
+  left: 0;
+  width: 100%;
+  color: white;
+  text-align: center;
+  font-style: italic;
+}
+
+/* Wildlife Observations Map */
+#map-container {
+  height: 450px;
+  width: 100%;
+}
+
+.marker-text {
+  text-align: center;
+}
+.mycluster {
+  width: 40px;
+  height: 40px;
+  background-color: greenyellow;
+  text-align: center;
+  font-size: 24px;
+}
+/* Wildlife Observations Table */
+.buttons {
+  text-align: center;
+  margin: 2em;
+}
+.buttons > button:hover {
+  background-color: lightblue;
+}
+
+td {
+  vertical-align: middle;
+}
+
+time {
+  background: inherit;
+}
+
+/* Footer */
+footer {
+  text-align: right;
+}
