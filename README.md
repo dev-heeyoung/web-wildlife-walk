@@ -1,5 +1,7 @@
 # Project
- web wildlife walk: Web application for exploring iNaturalist wildlife observation data.
+ Web wildlife walk: Web application for exploring iNaturalist wildlife observation data.
+ 
+<img width=100% align=left src="https://user-images.githubusercontent.com/90359267/169364644-264d6161-3a6e-44ff-8153-5efb53cebaa3.gif"/>
 
 # Skills
 HTML5, CSS3, JavaScript
